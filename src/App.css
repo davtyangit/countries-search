@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto&display=swap');
+
+*, *::after, *::before {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat';
+    background-color: rgba(128, 128, 128, 0.295);
+}
+
+button, input {
+    font-family: 'Montserrat';
+}
+
+.contianer {
+    max-width: 1140px;
+    width: 95%;
+    margin: 0 auto;
+    padding: 1rem 0
+}
+
